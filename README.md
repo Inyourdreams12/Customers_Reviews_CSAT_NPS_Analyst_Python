@@ -12,7 +12,7 @@ Perform a comprehensive sentiment analysis on product reviews to gain insights i
 - Python: Data cleaning, transformation and exploration   
                       Charts perform
                       Calculate CSAT/NPS  
-  - PowerPoint: Report performing, Charts re-design
+- PowerPoint: Report performing, Charts re-design
 
 ## Dataset:
 - This dataset consists of a nearly 3000 customer reviews (input text) of technology device Echo Speaker, star ratings, date, variant, feedback and NPS score
