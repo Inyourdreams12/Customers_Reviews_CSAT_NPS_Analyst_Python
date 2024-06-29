@@ -16,14 +16,17 @@ Perform a comprehensive sentiment analysis on product reviews to gain insights i
 - This dataset consists of nearly 3000 customer reviews (input text) of the technology device Echo Speaker, star ratings, date, variant, feedback, and NPS score
 
 
-<img width="1706" alt="image" src="https://github.com/Inyourdreams12/Customers_Reviews_Analyst_Python/assets/119731058/bd3f553a-f6d2-4b63-bcb7-57e1d8424498">
-<img width="1706" alt="image" src="https://github.com/Inyourdreams12/Customers_Reviews_Analyst_Python/assets/119731058/8c622c30-94b6-4cd9-9a17-b3203973ab6e">
-<img width="1706" alt="image" src="https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/62e5fced-2cda-4e0d-ba5c-979cb89db310">
-<img width="1706" alt="image" src="https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/38dfe170-6fea-4755-a927-939356a018c7">
-<img width="1706" alt="image" src="https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/83ea06f8-9b45-47b2-ae81-8fe029890b2f">
-<img width="1706" alt="image" src="https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/8331db35-f801-47d8-bdbd-996c26db0b86">
-<img width="1706" alt="image" src="https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/eef583d0-b050-44e0-b0a3-e8d2217195b6">
-<img width="1706" alt="image" src="https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/75d03216-ab2d-4e65-a9a3-2aa62f5dc442">
+
+![1](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/ed55a58e-ef38-4199-83f9-5700d3f49d53)
+![2](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/6c2865ba-5a8c-4b9f-a235-50509f27078f)
+![3](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/0e43a03d-3b5b-4a46-8c18-43d9f7ad9663)
+![4](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/ba20e7f8-df98-4671-8722-66f817645e59)
+![5](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/b3607126-d431-4d22-a01e-2e150e4b0871)
+![6](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/7b0f4339-2510-4343-98a7-f4de38753909)
+![7](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/68f74881-06fa-4ab0-af79-76f5faf63fec)
+![8](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/16cf899b-7a62-49a1-9ff4-af6bea6a32cd)
+![9](https://github.com/Inyourdreams12/Customers_Reviews_CSAT_NPS_Analyst_Python/assets/119731058/74e836f0-0def-44d4-8478-6a29767b8935)
+
 
 
 
